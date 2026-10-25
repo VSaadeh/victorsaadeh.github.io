@@ -1,3 +1,6 @@
 # Victor Saadeh
-Years of Professional and Academic Experience\
-Go to [about page](about.md)
+Experienced Professional and Passionate Academic\
+[About](About.md)
+[Professional Experience](ProfExp.md)
+[Academic Experience](AcExp.md)
+[Hobbies and Other Interests](Hobbies.md)
