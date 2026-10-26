@@ -1,5 +1,5 @@
 # Victor Saadeh
-Experienced Professional and Passionate Academic\
+Experienced Professional, Passionate Academic, Dedicated Learner\
 <img src="Blue_Headshot.jpg" alt="Victor Saadeh Headshot" width="250" height="250">\
 [About](About.md)\
 [Professional Experience](ProfExp.md)\
