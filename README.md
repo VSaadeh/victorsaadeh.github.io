@@ -5,3 +5,6 @@ Experienced Professional and Passionate Academic\
 [Professional Experience](ProfExp.md)\
 [Academic Experience](AcExp.md)\
 [Hobbies and Other Interests](Hobbies.md)
+
+Connect With Me:
+[LinkedIn](https://www.linkedin.com/in/victor-saadeh/)
